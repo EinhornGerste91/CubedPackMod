@@ -35,6 +35,17 @@ public class ModBlocks {
     public static final Block CUBEDPACK_BRICKS5 = registerBlock("cubedpack_bricks5",
             new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_BRICKS6 = registerBlock("cubedpack_bricks6",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS7 = registerBlock("cubedpack_bricks7",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS8 = registerBlock("cubedpack_bricks8",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS9 = registerBlock("cubedpack_bricks9",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
     private static Block registerBlock(String name,Block block,ItemGroup group){
         registerBlockItem(name,block,group);
