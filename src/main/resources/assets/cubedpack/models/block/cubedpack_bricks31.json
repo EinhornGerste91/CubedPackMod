@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures":  {
-    "all": "cubedpack:block/cubedpack_bricks29"
+    "all": "cubedpack:block/cubedpack_bricks31"
   }
 }
