@@ -47,6 +47,48 @@ public class ModBlocks {
     public static final Block CUBEDPACK_BRICKS9 = registerBlock("cubedpack_bricks9",
             new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_BRICKS10 = registerBlock("cubedpack_bricks10",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS11 = registerBlock("cubedpack_bricks11",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS12 = registerBlock("cubedpack_bricks12",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS13 = registerBlock("cubedpack_bricks13",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS14 = registerBlock("cubedpack_bricks14",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS15 = registerBlock("cubedpack_bricks15",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS16 = registerBlock("cubedpack_bricks16",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS17 = registerBlock("cubedpack_bricks17",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS18 = registerBlock("cubedpack_bricks18",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS19 = registerBlock("cubedpack_bricks19",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS20 = registerBlock("cubedpack_bricks20",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS21 = registerBlock("cubedpack_bricks21",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS22 = registerBlock("cubedpack_bricks22",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_BRICKS23 = registerBlock("cubedpack_bricks23",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(1).resistance(6).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
     private static Block registerBlock(String name,Block block,ItemGroup group){
         registerBlockItem(name,block,group);
         return Registry.register(Registry.BLOCK, new Identifier(CubedPack.MOD_ID, name), block);
