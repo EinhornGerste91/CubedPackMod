@@ -61,5 +61,13 @@
   "block.cubedpack.cubedpack_wool_blue": "CubedPack Blue Wool",
   "block.cubedpack.cubedpack_wood_beech1": "CubedPack Wood Beech1",
   "block.cubedpack.cubedpack_wood_beech2": "CubedPack Wood Beech2",
-  "block.cubedpack.cubedpack_wood_beech3": "CubedPack Wood Beech3"
+  "block.cubedpack.cubedpack_wood_beech3": "CubedPack Wood Beech3",
+  "block.cubedpack.cubedpack_wood_ash1": "CubedPack Wood Ash1",
+  "block.cubedpack.cubedpack_wood_ash2": "CubedPack Wood Ash2",
+  "block.cubedpack.cubedpack_wood_ash3": "CubedPack Wood Ash3",
+  "block.cubedpack.cubedpack_wood_driftwood1": "CubedPack Wood Ash1",
+  "block.cubedpack.cubedpack_wood_driftwood2": "CubedPack Wood Ash2",
+  "block.cubedpack.cubedpack_wood_driftwood3": "CubedPack Wood Ash3"
+
+
 }

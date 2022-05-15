@@ -203,6 +203,15 @@ public class ModBlocks {
     public static final Block CUBEDPACK_WOOD_ASH3 = registerBlock("cubedpack_wood_ash3",
             new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_WOOD_DRIFTWOOD1 = registerBlock("cubedpack_wood_driftwood1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_DRIFTWOOD2 = registerBlock("cubedpack_wood_driftwood2",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_DRIFTWOOD3 = registerBlock("cubedpack_wood_driftwood3",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
 
 
 
