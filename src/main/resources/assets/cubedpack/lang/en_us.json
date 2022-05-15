@@ -58,5 +58,8 @@
   "block.cubedpack.cubedpack_wool_cyan": "CubedPack Cyan Wool",
   "block.cubedpack.cubedpack_wool_black": "CubedPack Black Wool",
   "block.cubedpack.cubedpack_wool_brown": "CubedPack Brown Wool",
-  "block.cubedpack.cubedpack_wool_blue": "CubedPack Blue Wool"
+  "block.cubedpack.cubedpack_wool_blue": "CubedPack Blue Wool",
+  "block.cubedpack.cubedpack_wood_beech1": "CubedPack Wood Beech1",
+  "block.cubedpack.cubedpack_wood_beech2": "CubedPack Wood Beech2",
+  "block.cubedpack.cubedpack_wood_beech3": "CubedPack Wood Beech3"
 }

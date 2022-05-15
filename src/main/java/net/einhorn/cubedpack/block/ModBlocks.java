@@ -185,6 +185,17 @@ public class ModBlocks {
     public static final Block CUBEDPACK_WOOL_BLACK = registerBlock("cubedpack_wool_black",
             new Block(FabricBlockSettings.of(Material.WOOL).hardness(1).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_WOOD_BEECH1 = registerBlock("cubedpack_wood_beech1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_BEECH2 = registerBlock("cubedpack_wood_beech2",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_BEECH3 = registerBlock("cubedpack_wood_beech3",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+
+
 
     private static Block registerBlock(String name,Block block,ItemGroup group){
         registerBlockItem(name,block,group);
