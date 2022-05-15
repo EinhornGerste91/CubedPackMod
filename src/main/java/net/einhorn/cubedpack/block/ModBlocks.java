@@ -149,6 +149,18 @@ public class ModBlocks {
     public static final Block CUBEDPACK_WOOL_PURPLE = registerBlock("cubedpack_wool_purple",
             new Block(FabricBlockSettings.of(Material.WOOL).hardness(1).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_WOOL_LIME = registerBlock("cubedpack_wool_lime",
+            new Block(FabricBlockSettings.of(Material.WOOL).hardness(1).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOL_ORANGE = registerBlock("cubedpack_wool_orange",
+            new Block(FabricBlockSettings.of(Material.WOOL).hardness(1).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOL_MAGENTA = registerBlock("cubedpack_wool_magenta",
+            new Block(FabricBlockSettings.of(Material.WOOL).hardness(1).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOL_PINK = registerBlock("cubedpack_wool_pink",
+            new Block(FabricBlockSettings.of(Material.WOOL).hardness(1).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
 
     private static Block registerBlock(String name,Block block,ItemGroup group){
         registerBlockItem(name,block,group);
