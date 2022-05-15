@@ -42,5 +42,9 @@
   "block.cubedpack.cubedpack_bricks36": "CubedPack Brick36",
   "block.cubedpack.cubedpack_bricks37": "CubedPack Brick37",
   "block.cubedpack.cubedpack_bricks38": "CubedPack Brick38",
-  "block.cubedpack.cubedpack_bricks39": "CubedPack Brick39"
+  "block.cubedpack.cubedpack_bricks39": "CubedPack Brick39",
+  "block.cubedpack.cubedpack_wool_yellow": "CubedPack Yellow Wool",
+  "block.cubedpack.cubedpack_wool_white": "CubedPack White Wool",
+  "block.cubedpack.cubedpack_wool_red": "CubedPack Red Wool",
+  "block.cubedpack.cubedpack_wool_purple": "CubedPack Purple Wool"
 }
