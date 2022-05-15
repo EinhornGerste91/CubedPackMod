@@ -50,5 +50,9 @@
   "block.cubedpack.cubedpack_wool_green": "CubedPack Green Wool",
   "block.cubedpack.cubedpack_wool_gray": "CubedPack Gray Wool",
   "block.cubedpack.cubedpack_wool_light_gray": "CubedPack Light Gray Wool",
-  "block.cubedpack.cubedpack_wool_light_blue": "CubedPack Light Blue Wool"
+  "block.cubedpack.cubedpack_wool_light_blue": "CubedPack Light Blue Wool",
+  "block.cubedpack.cubedpack_wool_lime": "CubedPack Lime Wool",
+  "block.cubedpack.cubedpack_wool_orange": "CubedPack Orange Wool",
+  "block.cubedpack.cubedpack_wool_magenta": "CubedPack Magenta Wool",
+  "block.cubedpack.cubedpack_wool_pink": "CubedPack Pink Wool"
 }
