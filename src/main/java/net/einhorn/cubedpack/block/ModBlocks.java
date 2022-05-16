@@ -221,6 +221,15 @@ public class ModBlocks {
     public static final Block CUBEDPACK_WOOD_CHESTNUT3 = registerBlock("cubedpack_wood_chestnut3",
             new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_WOOD_WALNUT1= registerBlock("cubedpack_wood_walnut1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_WALNUT2 = registerBlock("cubedpack_wood_walnut2",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_WALNUT3 = registerBlock("cubedpack_wood_walnut3",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
 
 
 
