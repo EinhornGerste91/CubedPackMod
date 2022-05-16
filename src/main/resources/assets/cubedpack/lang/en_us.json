@@ -65,9 +65,13 @@
   "block.cubedpack.cubedpack_wood_ash1": "CubedPack Wood Ash1",
   "block.cubedpack.cubedpack_wood_ash2": "CubedPack Wood Ash2",
   "block.cubedpack.cubedpack_wood_ash3": "CubedPack Wood Ash3",
-  "block.cubedpack.cubedpack_wood_driftwood1": "CubedPack Wood Ash1",
-  "block.cubedpack.cubedpack_wood_driftwood2": "CubedPack Wood Ash2",
-  "block.cubedpack.cubedpack_wood_driftwood3": "CubedPack Wood Ash3"
+  "block.cubedpack.cubedpack_wood_driftwood1": "CubedPack Wood Driftwood1",
+  "block.cubedpack.cubedpack_wood_driftwood2": "CubedPack Wood Driftwood2",
+  "block.cubedpack.cubedpack_wood_driftwood3": "CubedPack Wood Driftwood3",
+  "block.cubedpack.cubedpack_wood_chestnut1": "CubedPack Wood Chestnut1",
+  "block.cubedpack.cubedpack_wood_chestnut2": "CubedPack Wood Chestnut2",
+  "block.cubedpack.cubedpack_wood_chestnut3": "CubedPack Wood Chestnut3"
+
 
 
 }
