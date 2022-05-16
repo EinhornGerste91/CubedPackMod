@@ -9,3 +9,5 @@ Credits:
 -Tarago: Pack
 
 -Aequotis: Pack
+
+-Jeasolis: Blocknames + emotional support
