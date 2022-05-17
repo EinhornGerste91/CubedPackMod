@@ -248,7 +248,26 @@ public class ModBlocks {
     public static final Block CUBEDPACK_WOOD_DARKWOOD3 = registerBlock("cubedpack_wood_darkwood3",
             new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_WOOD_COLORED_RED1 = registerBlock("cubedpack_wood_colored_red1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_WOOD_COLORED_BLUE1 = registerBlock("cubedpack_wood_colored_blue1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_COLORED_BLACK1 = registerBlock("cubedpack_wood_colored_black1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_COLORED_TEAL1 = registerBlock("cubedpack_wood_colored_teal1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_COLORED_GREEN1 = registerBlock("cubedpack_wood_colored_green1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_COLORED_WHITE1 = registerBlock("cubedpack_wood_colored_white1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD_COLORED_YELLOW1 = registerBlock("cubedpack_wood_colored_yellow1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
 
 
