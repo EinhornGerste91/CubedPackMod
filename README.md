@@ -10,4 +10,6 @@ Credits:
 
 -Aequotis: Pack
 
--Jeasolis: Blocknames + emotional support
+-Jeasolis: Blocknames + emotional support,ty!
+
+-Sjouwer: Alot of details,ty!
