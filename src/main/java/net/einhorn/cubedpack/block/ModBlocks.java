@@ -326,6 +326,35 @@ public class ModBlocks {
     public static final Block CUBEDPACK_STONE6 = registerBlock("cubedpack_stone6",
             new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_STONE7 = registerBlock("cubedpack_stone7",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE8 = registerBlock("cubedpack_stone8",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE9 = registerBlock("cubedpack_stone9",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE10 = registerBlock("cubedpack_stone10",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE11 = registerBlock("cubedpack_stone11",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE12 = registerBlock("cubedpack_stone12",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE13 = registerBlock("cubedpack_stone13",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE14 = registerBlock("cubedpack_stone14",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_STONE15 = registerBlock("cubedpack_stone15",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+
+
 
 
     private static Block registerBlock(String name,Block block,ItemGroup group){
