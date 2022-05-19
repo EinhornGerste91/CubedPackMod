@@ -275,6 +275,39 @@ public class ModBlocks {
     public static final Block CUBEDPACK_TILE2 = registerBlock("cubedpack_tile2",
             new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_TILE_MARBLE_COPPER1 = registerBlock("cubedpack_tile_marble_copper1",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_COPPER2 = registerBlock("cubedpack_tile_marble_copper2",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE1_COPPER3 = registerBlock("cubedpack_tile_marble_copper3",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_GREEN1 = registerBlock("cubedpack_tile_marble_green1",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_GREEN2 = registerBlock("cubedpack_tile_marble_green2",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_BLUE1 = registerBlock("cubedpack_tile_marble_blue1",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_BLUE2 = registerBlock("cubedpack_tile_marble_blue2",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_BLACK1 = registerBlock("cubedpack_tile_marble_black1",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_BLACK2 = registerBlock("cubedpack_tile_marble_black2",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_WHITE1 = registerBlock("cubedpack_tile_marble_white1",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE_MARBLE_white2 = registerBlock("cubedpack_tile_marble_white2",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
 
 
     private static Block registerBlock(String name,Block block,ItemGroup group){
