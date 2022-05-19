@@ -86,6 +86,8 @@
   "block.cubedpack.cubedpack_wood_colored_green1": "CubedPack Wood Colored Green1",
   "block.cubedpack.cubedpack_wood_colored_teal1": "CubedPack Wood Colored Teal1",
   "block.cubedpack.cubedpack_wood_colored_yellow1": "CubedPack Wood Colored Yellow1",
-  "block.cubedpack.cubedpack_wood_colored_white1": "CubedPack Wood Colored White1"
+  "block.cubedpack.cubedpack_wood_colored_white1": "CubedPack Wood Colored White1",
+  "block.cubedpack.cubedpack_tile1": "CubedPack Tile1",
+  "block.cubedpack.cubedpack_tile2": "CubedPack Tile2"
 
 }

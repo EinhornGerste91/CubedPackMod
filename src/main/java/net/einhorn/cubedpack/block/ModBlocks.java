@@ -269,6 +269,12 @@ public class ModBlocks {
     public static final Block CUBEDPACK_WOOD_COLORED_YELLOW1 = registerBlock("cubedpack_wood_colored_yellow1",
             new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_TILE1 = registerBlock("cubedpack_tile1",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_TILE2 = registerBlock("cubedpack_tile2",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
 
 
     private static Block registerBlock(String name,Block block,ItemGroup group){
