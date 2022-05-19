@@ -99,5 +99,11 @@
   "block.cubedpack.cubedpack_tile_marble_white1": "CubedPack WhiteTile1",
   "block.cubedpack.cubedpack_tile_marble_white2": "CubedPack WhiteTile2",
   "block.cubedpack.cubedpack_tile_marble_blue1": "CubedPack BlueTile1",
-  "block.cubedpack.cubedpack_tile_marble_blue2": "CubedPack BlueTile2"
+  "block.cubedpack.cubedpack_tile_marble_blue2": "CubedPack BlueTile2",
+  "block.cubedpack.cubedpack_stone1": "CubedPack Stone1",
+  "block.cubedpack.cubedpack_stone2": "CubedPack Stone2",
+  "block.cubedpack.cubedpack_stone3": "CubedPack Stone3",
+  "block.cubedpack.cubedpack_stone4": "CubedPack Stone4",
+  "block.cubedpack.cubedpack_stone5": "CubedPack Stone5",
+  "block.cubedpack.cubedpack_stone6": "CubedPack Stone6"
 }
