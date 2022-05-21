@@ -353,6 +353,30 @@ public class ModBlocks {
     public static final Block CUBEDPACK_STONE15 = registerBlock("cubedpack_stone15",
             new Block(FabricBlockSettings.of(Material.STONE).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_WOOD1 = registerBlock("cubedpack_wood1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD2 = registerBlock("cubedpack_wood2",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD3 = registerBlock("cubedpack_wood3",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD4 = registerBlock("cubedpack_wood4",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD5 = registerBlock("cubedpack_wood5",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD6 = registerBlock("cubedpack_wood6",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD7 = registerBlock("cubedpack_wood7",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
+    public static final Block CUBEDPACK_WOOD8 = registerBlock("cubedpack_wood8",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
 
 
 
