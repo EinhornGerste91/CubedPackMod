@@ -377,6 +377,9 @@ public class ModBlocks {
     public static final Block CUBEDPACK_WOOD8 = registerBlock("cubedpack_wood8",
             new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
 
+    public static final Block CUBEDPACK_CRATE1 = registerBlock("cubedpack_crate1",
+            new Block(FabricBlockSettings.of(Material.WOOD).hardness(2).resistance(2).requiresTool()), ModItemGroup.CUBEDBLOCKS);
+
 
 
 
