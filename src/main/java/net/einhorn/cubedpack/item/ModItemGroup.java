@@ -8,6 +8,6 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
 
-    public static final ItemGroup CUBEDITEMS = FabricItemGroupBuilder.build(new Identifier(CubedPack.MOD_ID, "cubed"), () -> new ItemStack(ModItems.WAND));
-    public static final ItemGroup CUBEDBLOCKS = FabricItemGroupBuilder.build(new Identifier(CubedPack.MOD_ID, "cubed"), () -> new ItemStack(ModItems.RAINBOWWAND));
+    public static final ItemGroup CUBEDITEMS = FabricItemGroupBuilder.build(new Identifier(CubedPack.MOD_ID, "cubeditems"), () -> new ItemStack(ModItems.WAND));
+    public static final ItemGroup CUBEDBLOCKS = FabricItemGroupBuilder.build(new Identifier(CubedPack.MOD_ID, "cubedblocks"), () -> new ItemStack(ModItems.RAINBOWWAND));
 }
